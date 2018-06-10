@@ -1,5 +1,5 @@
 {
-  "name": "xpromx/laravel-graphql",
+  "name": "tonipepperoni/laravel-graphql",
   "description": "Laravel wrapper for Facebook's GraphQL",
   "keywords": [
     "framework",
@@ -19,7 +19,7 @@
   "require": {
     "php": ">=7.0",
     "folklore/graphql": "^1.0",
-    "barryvdh/laravel-cors": "^0.9.3"
+    "barryvdh/laravel-cors": "^0.11.0"
   },
 
   "autoload": {
